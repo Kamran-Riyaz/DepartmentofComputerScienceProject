@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "680422668625",
+    "firebase_url": "https://dcs-bgsbu-rajouri-jk.firebaseio.com",
+    "project_id": "dcs-bgsbu-rajouri-jk",
+    "storage_bucket": "dcs-bgsbu-rajouri-jk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680422668625:android:ba0caeca7dddcea2e07b70",
+        "android_client_info": {
+          "package_name": "quote.broadcast.kamranriyaz.dcsbgsburajourijk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680422668625-5kckrd04d3iik01cq1gcp2kq513c2r8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "quote.broadcast.kamranriyaz.dcsbgsburajourijk",
+            "certificate_hash": "6a1d685b3e72a46d0d41758f09f668c456a1ae96"
+          }
+        },
+        {
+          "client_id": "680422668625-qd4js4m4btd8g8cabdg795hq7c7tflih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDobRBVMvNXx84iUK61OIFF_Fw-eGOHlFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680422668625-qd4js4m4btd8g8cabdg795hq7c7tflih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
